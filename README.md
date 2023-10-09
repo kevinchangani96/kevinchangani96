@@ -18,15 +18,17 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Kevin Changani</h1>
+<h3 align="center">Tech-Curious Developer Exploring Boundless Horizons from India</h3>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🌱 I’m currently learning **Java, Data Structures and Algorithms, REST API , Spring,Spring Boot**
+  
+- 👨‍💻 All of my projects are available at [https://github.com/kevinchangani96](https://github.com/kevinchangani96)
 
-###
+- 📫 How to reach me **changanikevin96@gmail.com**
 
-<p align="left">I'm Kevin Changani from Surat, Gujarat....<br>Tech-Curious Developer Exploring Boundless Horizons from India<br>- 🌱 I’m currently learning Java, Data Structures and Algorithms, REST API, Spring, Spring Boot<br>-👨‍💻 All of my projects are available at https://github.com/kevinchangani96<br>- ⚡ In my free time I Practice DSA Problems on Leetcode And GeekForGeek Platform</p>
+
 
 ###
 
